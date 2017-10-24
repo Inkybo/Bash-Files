@@ -1,0 +1,58 @@
+declare -i num=$(( $RANDOM % 14 ))
+
+if [ "$num" -eq "0" ];
+	then
+		cat #location of ascii art greeting file
+fi
+if [ "$num" -eq "1" ];
+	then
+		cat #location of ascii art greeting file
+fi
+if [ "$num" -eq "2" ];
+	then
+		cat #location of ascii art greeting file
+fi
+if [ "$num" -eq "3" ];
+	then
+		cat #location of ascii art greeting file
+fi
+if [ "$num" -eq "4" ];
+	then
+		cat #location of ascii art greeting file
+fi
+if [ "$num" -eq "5" ];
+	then
+		cat #location of ascii art greeting file
+fi
+if [ "$num" -eq "6" ];
+	then
+		cat #location of ascii art greeting file
+fi
+if [ "$num" -eq "7" ];
+	then
+		cat #location of ascii art greeting file
+fi
+if [ "$num" -eq "8" ];
+	then
+		cat #location of ascii art greeting file
+fi
+if [ "$num" -eq "9" ];
+	then
+		cat #location of ascii art greeting file
+fi
+if [ "$num" -eq "10" ];
+	then
+		cat #location of ascii art greeting file
+fi
+if [ "$num" -eq "11" ];
+	then
+		cat #location of ascii art greeting file
+fi
+if [ "$num" -eq "12" ];
+	then
+		cat #location of ascii art greeting file
+fi
+if [ "$num" -eq "13" ];
+	then
+		cat #location of ascii art greeting file
+fi
